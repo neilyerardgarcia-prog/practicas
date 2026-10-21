@@ -189,8 +189,10 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="28dp"
         android:layout_marginBottom="32dp"
-        android:text="TextView"
+        android:text="jaja"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintStart_toEndOf="@+id/but_signup" />
+
+
 
 </androidx.constraintlayout.widget.ConstraintLayout>
